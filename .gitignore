@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SolidPrinciples/bin/Debug/net6.0
+/SolidPrinciples/.vs/SolidPrinciples/v17
+/SolidPrinciples/obj
