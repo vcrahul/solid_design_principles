@@ -1,7 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-using SolidPrinciples;
+﻿ using SolidPrinciples;
 
 Console.WriteLine("Hello, Welcome to SOLID DESIGN PRINCIPLES GUIDE");
 
 SingleResponsibility singleResponsibility = new SingleResponsibility();
 singleResponsibility.SingleResponsibilityMethod();
+
+OpenClose openClose = new OpenClose();
+openClose.OpenClosePrincipleMethod();
